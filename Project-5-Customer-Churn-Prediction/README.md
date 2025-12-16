@@ -4,7 +4,8 @@
 To predict whether a customer will churn based on behavioral and demographic data.
 
 ## Dataset
-Telco Customer Churn Dataset (IBM)
+IBM Telco Customer Churn Dataset  
+Source: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
 
 ## Approach
 - Data cleaning and preprocessing
